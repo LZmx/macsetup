@@ -12,7 +12,7 @@ OS 10.10 up
 * Usage
 ------------------------
 ```sh
-bash <(curl -s https://raw.githubusercontent.com/lzmx/macsetup/master/setup)
+bash <(curl -s https://raw.githubusercontent.com/LZmx/macsetup/master/setup.sh)
 ```
 
 Install List
