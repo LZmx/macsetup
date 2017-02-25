@@ -9,8 +9,6 @@ You can remove any app you dont want to be installed or add any missing one you 
 ------------------------
 OS 10.10 up
 
-
-
 * Usage
 ------------------------
 ```sh
@@ -76,16 +74,18 @@ Cask Installs
 * virtualbox
 
 [flycut]: https://github.com/TermiT/Flycut
-[gitkraken] : https://www.gitkraken.com/
+[gitkraken]: https://www.gitkraken.com/
 [medis]: https://github.com/luin/medis
 [smartgit]: http://www.syntevo.com/smartgit/
 
 App from appstore (you need to be signed in first)
 ------------------------
-## You can search for a desired app with
+You can search for a desired app with
 ```sh
 mas search AppName
 ```
+------------------------
+
 
 Magnet
 ColorSnapper2
