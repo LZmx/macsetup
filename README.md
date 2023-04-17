@@ -29,53 +29,62 @@ Install List
 
 Brew installs
 ------------------------
-Ansible
-dnsmasq
-go
-node@6
-mongodb
-mysql
-php7
-redis
-wget
+cocoapods
+diff-so-fancy
+git
+mas
+openjdk@8
+openjdk@11
+python@3.9
+watchman
+yarn
+wix/brew
+applesimutils
+minikube
+hyperkit
+kubectl
+jq
+qmk/qmk/qmk
+via
+imagemagick
+graphicsmagick
+librsvg
 
 Cask Installs
 ------------------------
 
 * alfred
-* anki
+* android-file-transfer
+* android-studio
 * appcleaner
-* atom
-* bartender
-* calibre
-* cloudup
+* caffeine
 * diffmerge
 * docker
 * dropbox
-* evernote
 * firefox
-* [flycut] 
-* gfxcardstatus # For macbooks with 2 graphic cards
-* [gitkraken]
+* flipper
+* [flycut]
+* gfxcardstatus
+* google-drive
 * google-chrome
+* logitech-options
+* brave-browser
+* karabiner-elements
 * iterm2
-* [medis] redis management App 
 * postman
-* robomongo mongo db manager
-* sdformatter
-* sequel-pro #mysql manager
 * skype
 * slack
 * [smartgit] git client 
+* sourcetree
 * spotify
-* spotify-notifications
 * sublime-text
-* vagrant
 * virtualbox
+* visual-studio-code
+* vlc
+* zoomus
+
 
 [flycut]: https://github.com/TermiT/Flycut
-[gitkraken]: https://www.gitkraken.com/
-[medis]: https://github.com/luin/medis
 [smartgit]: http://www.syntevo.com/smartgit/
 
 App from appstore (you need to be signed in first)
@@ -86,13 +95,32 @@ mas search AppName
 ```
 ------------------------
 
-
+Xcode
+FB Messenger
+Whatsapp
+Tot
+Trello
+Boom 3D
 Magnet
-ColorSnapper2
-1password
-Reeder
-Pages
-Spark
+Jira
+1Password
 The Unarchiver
-Fantastical 2
-Tweetbot
+Wechat
+Fantastical
+Microsoft Remote Desktop
+Spark
+telegram
+ColorSnapper2
+
+
+Installs
+------------------------
+
+RVM
+NVM
+Oh my zsh
+Spaceship prompt
+
+
+Configure android paths
+------------------------
